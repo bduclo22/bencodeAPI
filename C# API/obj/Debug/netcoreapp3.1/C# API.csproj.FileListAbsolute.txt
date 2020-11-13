@@ -1,0 +1,14 @@
+/home/ben/Desktop/C# API/bin/Debug/netcoreapp3.1/C# API
+/home/ben/Desktop/C# API/bin/Debug/netcoreapp3.1/C# API.deps.json
+/home/ben/Desktop/C# API/bin/Debug/netcoreapp3.1/C# API.runtimeconfig.json
+/home/ben/Desktop/C# API/bin/Debug/netcoreapp3.1/C# API.runtimeconfig.dev.json
+/home/ben/Desktop/C# API/bin/Debug/netcoreapp3.1/C# API.dll
+/home/ben/Desktop/C# API/bin/Debug/netcoreapp3.1/C# API.pdb
+/home/ben/Desktop/C# API/obj/Debug/netcoreapp3.1/C# API.csprojAssemblyReference.cache
+/home/ben/Desktop/C# API/obj/Debug/netcoreapp3.1/C# API.AssemblyInfoInputs.cache
+/home/ben/Desktop/C# API/obj/Debug/netcoreapp3.1/C# API.AssemblyInfo.cs
+/home/ben/Desktop/C# API/obj/Debug/netcoreapp3.1/C# API.dll
+/home/ben/Desktop/C# API/obj/Debug/netcoreapp3.1/C# API.pdb
+/home/ben/Desktop/C# API/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/home/ben/Desktop/C# API/obj/Debug/netcoreapp3.1/C# API.csproj.CopyComplete
+/home/ben/Desktop/C# API/bin/Debug/netcoreapp3.1/RestSharp.dll
